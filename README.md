@@ -15,4 +15,4 @@ A few of my favourite things:
 
 check out my [Projects!](https://github.com/Csepato?tab=repositories)
 
-Connect with me on [Linkedin!](https://www.linkedin.com/in/clifford-sepato-2560b660)
+Connect with me on [Linkedin!](https://linkedin.com/in/clifford-sepato-2560b660)
