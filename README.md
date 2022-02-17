@@ -13,6 +13,6 @@ A few of my favourite things:
 - 📖 Reading
 - 🎵 Listening to music
 
-check out my [Projects!](https://github.com/Csepato)
+check out my [Projects!](https://github.com/Csepato?tab=repositories)
 
 Connect with me on [Linkedin!](https://www.linkedin.com/in/clifford-sepato-2560b660)
