@@ -1,13 +1,15 @@
 ### Hi, I'm Clifford! 👋
 
-I'm an aspiring data scientist based in Johannesburg, currently developing skills in Excel, VBA, Python, APIs, SQL, SQLAlchemy, HTML/CSS, Javascript, ETL, web scraping, Flask API, MongoDB, D3.js, Plotly.js, Tableau, Machine Learning and Big Data at University of Birmingham Data Analytics bootcamp.
+I'm an aspiring data scientist based in Johannesburg, currently developing skills in Excel, VBA, Python, APIs, SQL, SQLAlchemy, HTML/CSS, Javascript, ETL, web scraping, Flask API, MongoDB, D3.js, Plotly.js, Tableau, Machine Learning and Big Data through the University of Birmingham's Data Analytics bootcamp.
 
 Out of all of these tools, I love working with Python, SQL and HTML.
 
 A few of my favourite things:
 
+
 - 🤔 Solving complex problems
-- 🤓 Learning new technologies
+- 🤓 Learning and exploring new technologies
+- 📉 Analysing Financial markets
 - 👯 Team work and Collaboration
 - 🌍 Travelling
 - 📖 Reading
