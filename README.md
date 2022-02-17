@@ -8,7 +8,7 @@ A few of my favourite things:
 
 
 - 🤔 Solving complex problems
-- 🤓 Learning and exploring new technologies
+- 🤓 Learning new technologies
 - 📉 Analysing Financial markets
 - 👯 Team work and Collaboration
 - 🌍 Travelling
