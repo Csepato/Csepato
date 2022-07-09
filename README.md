@@ -4,7 +4,7 @@ I'm a data analyst based in Johannesburg, with working experience in VBA, Python
 
 ### Education 👨‍🎓
 
-* **University of Birmingham**: Data Analytics Boocamp Certificate
+* **University of Birmingham**: Data Analytics Certificate
 * **EXPLORE Data Science Academy**: Data Science Certificate   
 
 
